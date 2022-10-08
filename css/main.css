@@ -744,6 +744,9 @@ color: var(--secondary);
   
   @media (max-width: 450px){
   
+    section{
+      margin-right: -15px;
+    }
     html{
       font-size: 50%;
     }
@@ -751,5 +754,4 @@ color: var(--secondary);
     .home .slide .content h3{
       font-size: 3rem;
     }
-  
   }
