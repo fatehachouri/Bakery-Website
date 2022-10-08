@@ -743,10 +743,7 @@ color: var(--secondary);
   }
   
   @media (max-width: 450px){
-  
-    section{
-      margin-right: -15px;
-    }
+    
     html{
       font-size: 50%;
     }
