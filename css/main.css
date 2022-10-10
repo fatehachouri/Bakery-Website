@@ -754,4 +754,9 @@ color: var(--secondary);
     .promotion .box-container .box{
       padding: 0;
     }
+    .promotion .box-container .box .content {
+      margin-right: 20px;
+      padding: 0;
+      gap: 0;
+    }
   }
