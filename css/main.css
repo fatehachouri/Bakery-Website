@@ -751,4 +751,7 @@ color: var(--secondary);
     .home .slide .content h3{
       font-size: 3rem;
     }
+    .promotion .box-container .box{
+      padding: 0;
+    }
   }
